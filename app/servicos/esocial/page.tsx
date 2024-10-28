@@ -25,7 +25,7 @@ export default function LtcatService(){
             </li>
             <p className="pl-1 pr-1 text-gray-400 hidden md:inline-block lg:inline-block">/</p>
             <li className="ads hidden md:inline-block lg:inline-block">
-                LTCAT - Laudo Técnico das Condições Ambientais de Trabalho  
+                LTCAT - Laudo Técnico das Condições Ambientais de Trabalho.  
             </li>
         </ol>
         </div>
